@@ -1,12 +1,12 @@
-S.No	Service Name	              URL	                                                      Remarks
-1	VirusTotal	              https://www.virustotal.com/	                                         To check the reputation of the URL with multiple AV / URL detection engines
+S.No	Service Name	              URL	                                                             Remarks
+1	VirusTotal	              https://www.virustotal.com/	                                      To check the reputation of the URL with multiple AV / URL detection engines
 2	IBM X-Force Exchange	      https://exchange.xforce.ibmcloud.com/                                  To check the Risk score and Reputation of the URL and mapping with corresponding malware report / IOCs Collections
 3	PhishTank                     https://www.phishtank.com/                                             To check if it is a phishing site or not ?
-4	Wheregoes	              https://wheregoes.com/	                                               To check where this URL is redirecting to.
-5	IsItPhishing	              https://isitphishing.org/	                                               To check if the URL is phishing ?
-6	dfndr-lab	              https://www.psafe.com/dfndr-lab/	                                           To check if the URL is safe ?
+4	Wheregoes	              https://wheregoes.com/	                                              To check where this URL is redirecting to.
+5	IsItPhishing	              https://isitphishing.org/	                                              To check if the URL is phishing ?
+6	dfndr-lab	              https://www.psafe.com/dfndr-lab/	                                      To check if the URL is safe ?
 7	Safe Browsing site status     https://transparencyreport.google.com/safe-browsing/search?hl=en	     To detect unsafe websites
 8	SafeWeb Norton	              https://safeweb.norton.com/	                                     To check norton rating in URL analysis
 9	URLVoid	                      https://www.urlvoid.com/	                                             To detect potentially malicious websites
-10	ScanURL                       https://scanurl.net/	                                              To Check a website/URL for phishing, malware, viruses and poor reputation
-11	OpenTIP Kaspersky	      https://opentip.kaspersky.com/	                                         To check URL analysis by Kaspersky
+10	ScanURL                       https://scanurl.net/	                                             To Check a website/URL for phishing, malware, viruses and poor reputation
+11	OpenTIP Kaspersky	      https://opentip.kaspersky.com/	                                       To check URL analysis by Kaspersky
