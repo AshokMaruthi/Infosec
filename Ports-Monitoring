@@ -1,0 +1,100 @@
+S.No	Ports 	Service
+1	53	DNS
+2	123	Network Time Protocol (NTP) - used for time synchronization
+3	23	Telnet
+4	22	SSH
+5	21	FTP
+6	3389	RDP
+7	445	SMB
+8	636	LDAPS
+9	389	LDAPS
+10	162	SNMP
+11	161	SNMP
+12	4786	Cisco Smart Install ( SMI port )
+13	1521	Listener Port of Oracle DB
+14	50000	DB2 , Jenkins
+15	1522	Oracle
+16	1433	SQL Server Port
+17	5601	Kibana
+18	8081	Apache Tomcat
+19	9094	Apache Kafka
+20	9200	Default Elasticsearch port
+21	27017	MongoDB - EAP Controller
+22	27018	Default MongoDB Port
+23	3306	Mysql
+24	31337	Back Orifice
+25	20000	Usermin
+26	13720	NetBackup
+27	13721	NetBackup
+28	10000	Webmin
+29	9800	WebDAV
+30	9100	HP
+31	9050	TOR socks
+32	8200	VMWARE
+33	8080	HTTP Proxy
+34	5800	vnc http
+35	5500	vnc server
+36	5432	postgres
+37	4333	mSQL
+38	3128	HTTP Proxy
+39	2483	Oracle DB
+40	2484	Oracle DB
+41	2222	DirectAdmin
+42	2100	Oracle XDB
+43	2082	cPanel
+44	2083	cPanel
+45	1434	MSSQL
+46	1194	OpenVPN
+47	1080	Socks Proxy
+48	902	VMWARE
+49	513	rlogin
+50	512	rexec
+51	137	NetBIOS
+52	138	NetBIOS
+53	139	NetBIOS
+54	135	RPC
+55	88	Kerberos
+56	45000	JDWP
+57	45001	JDWP
+58	8686	JMX
+59	9012	JMX
+60	50500	JMX
+61	4848	GlassFish
+62	11111	jBoss
+63	4444	jBoss , Java RMI
+64	4445	jBoss
+65	5555	HP Data Protector
+66	5556	HP Data Protector
+67	12721	Java RMI venter
+68	8880	IBM WebSphere
+69	8088	Apache Hadoop
+70	6379	Redis
+71	2375	Docker
+72	8983	Apache Solr
+73	8383	Zoho Manageengine Desktop
+74	4990	Atlassian Crowd
+75	9000	Portainer , WebLogic
+76	8500	Hashicorp Consul
+77	6066	Apache Spark
+78	1090	Java RMI
+79	1098	Java RMI
+80	1099	Java RMI
+81	11099	Java RMI
+82	47001	Java RMI
+83	47002	Java RMI
+84	10999	Java RMI
+85	7000	WebLogic
+86	7001	WebLogic
+87	7002	WebLogic
+88	7003	WebLogic
+89	7004	WebLogic
+90	8000	WebLogic , Http Port
+91	8001	WebLogic
+92	8002	WebLogic
+93	8003	WebLogic
+94	9001	WebLogic
+95	9002	WebLogic
+96	9003	WebLogic
+97	9503	WebLogic
+98	7070	WebLogic
+99	7071	WebLogic
