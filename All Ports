@@ -1,0 +1,267 @@
+Port Number or range	Description
+7			Echo
+19			Chargen
+21			FTP
+22			SSH/SCP
+23			Telnet
+25			SMTP
+42			WINS Replication
+43			WHOIS
+49			TACACS
+53			DNS
+67			BOOTP Server (on Leader card)
+69			TFTP
+70			Gopher
+79			Finger
+80			HTTP
+88			Kerberos
+102			MS Exchange
+110			POP3
+111			Sunrpc - portmapper for RPC
+113			Ident
+119			NNTP (Usenet)
+123			NTP
+135			Microsoft RPC
+137			NETBIOS Name Service
+138			NETBIOS Datagram Service
+139			NETBIOS Session Service
+143			IMAP
+161			SNMP
+162			SNMP
+177			XDMCP
+179			BGP
+201			AppleTalk
+264			BGMP
+318			TSP
+389			LDAP
+443			HTTP over SSL
+445			Microsoft DS
+464			Kerberos
+465			SMTP over SSL
+497			Retrospect
+500			ISAKMP
+512			rexec
+513			rlogin
+514			syslog
+515			LPD/LPR
+520			RIP
+521			RIPng (IPv6)
+540			UUCP
+554			RTSP
+560			rmonitor
+563			NNTP over SSL
+587			SMTP
+591			FileMaker
+593			Microsoft DCOM
+631			Internet Printing
+636			LDAP over SSL
+639			MSDP (PIM)
+646			LDP (MPLS)
+691			MS Exchange
+860			iSCSI
+873			rsync
+902			VMware Server
+993			IMAP4 over SSL
+995			POP3 over SSL
+1009			unknown
+1024			CS link
+1025			Microsoft RPC
+1026			msdtc
+1027			Microsoft Distribute COM Services
+1028			Microsoft Distribute COM Services
+1029			Dialogic CTMS
+1030			Dialogic CTMS
+1031			Dialogic CTMS
+1032			Dialogic CTMS
+1036			CallPilot Middleware Maintenance Service Provider
+1037			CallPilot Call Channel Resource
+1038			CallPilot Multimedia Resource
+1039			CallPilot MCE Notification Service
+1040			CallPilot MCE Notification Service
+1041			CallPilot MCE Notification Service
+1042			CallPilot MTA
+1045			CallPilot Access Protocol
+1046			CallPilot SLEE
+1047			IIS
+1048			IIS
+1080			SOCKS Proxy
+1080			MyDoom
+1095			CallPilot Blue Call Router
+1096			CallPilot Blue Call Router
+1148			TAPI
+1194			OpenVPN
+1214			Kazaa
+1241			Nessus
+1311			Dell Open
+1337			WASTE
+1512			WINS
+1583			Btrieve
+1589			Cisco VQP
+1701			L2TP
+1718			H.323
+1719			H.323
+1720			H.225
+1723			MS PPTP
+1725			Steam
+1741			CiscoWorks 2000
+1755			MS Media Server
+1863			MSN
+1929			DBA
+1985			Cisco HSRP
+2000			Cisco SCCP
+2002			Cisco ACS
+2010			CEMUX related
+2019			Dialogic CTMS
+2020			Dialogic CTMS
+2049			NFS
+2100			Oracle XDB
+2222			DirectAdmin
+2302			Halo
+2745			Bagle.H
+2967			Symantec AV
+3050			Interbase DB
+3074			XBOX Live
+3124			HTTP Proxy
+3127			MyDoom
+3128			HTTP PRoxy
+3222			GLBP
+3260			iSCSI Target
+3306			MySQL
+3351			Btrieve
+3389			Terminal Server
+3689			iTunes
+3690			Subversion
+3724			World of Warcraft
+4100			i2004
+4100			UNIStim
+4333			mSQL
+4444			Blaster
+4664			Google Desktop
+4672			eMule
+4899			Radmin
+5000			Network QoS monitor port
+5000			Net 6
+5000			UPnP
+5001			SNMP agent 
+5001			Slingbox
+5001			iperf
+5002			SNMP query
+5050			Yahoo! Messenger
+5060			SIP
+5099			RMI
+5100			i2004
+5190			AIM/ICQ
+5432			PostgreSQL
+5500			VNC Server
+5554			Sasser
+5631			pcAnywhere data
+5632			pcAnywhere stat
+5800			VNC over HTTP
+6001			DCHIP inter-card messaging
+6112			Battle.net
+6129			DameWare
+6257			WinMX
+6500			GameSpy Arcade
+6566			SANE
+6588			AnalogX
+6699			Napster
+6970			Quicktime
+7212			GhostSurf
+7300			i2004
+7734			DTP
+7934			IIS
+8000			Dialogic CTMS
+8000			Internet Radio
+8080			HTTP Proxy
+8118			Privoxy
+8200			VMware Server
+8500			Adobe ColdFusion
+8767			TeamSpeak
+8866			Bagle.B
+8888			elan / aml
+9100			HP JetDirect
+9119			MXit
+9800			WebDAV
+9898			Dabber
+9988			Rbot/Spybot
+9999			Urchin
+10000			Webmin
+10000			BackupExec
+10008			CallPilot Access Protocol
+11371			OpenPGP
+12345			NetBus
+12800			Signaling
+14567			Battlefield
+15000			cs link
+15000			rudp
+15000			rudp to CS
+15000			MCDN Call Independent Messaging
+15001			rudp to CS
+15118			Dipnet/Oddbob
+16500			Virtual office
+16501			Virtual office
+16543			Intercard sig
+16550			election
+19226			AdminSecure
+19638			Ensim
+20000			Usermin
+20001			SNTP
+24800			Synergy
+25999			Xfire
+27015			Half-Life
+27374			Sub7
+28960			Call of Duty
+31337			Back Orifice
+32779			IPDB HB
+32780			IPDB CLAN
+32781			SSD
+32782			Rx IPDB CEMUX
+32784			IPDB TTY
+38037			msgsys Intel CBA-Message System
+56325			CallPilot SLEE
+10113-10116		NetIQ
+1026-1029		Windows Messenger
+12035-12036		Second Life
+137-139			NetBIOS
+13720-13721		NetBackup
+1433-1434		Microsoft SQL
+161-162			SNMP
+1718, 1719		H.323 RAS
+1720, 1723		H.225/H.245
+17300 – 17362		RTP
+17301 – 17363		RTCP
+1812-1813		RADIUS
+2000, 2001		Intercard messaging
+2001 – 2002		Inter-card communication 
+20480, 20482		RTP
+2082-2083		cPanel
+2300 – 2362		RTP
+2300-2346 		RTP
+2301 – 2363		RTCP
+2301-2347 		RTCP
+2483-2484		Oracle DB
+33434+			Traceroute
+3784-3785		Ventrilo
+381-383			HP Openview
+411-412			Direct Connect
+4789-5045		Virtual System Terminal
+5004-5005		RTP
+5200 - 5246		RTP
+5200 - 5262		RTP
+5201 - 5247		RTCP
+5201 - 5263		RTCP
+5222-5223		XMPP/Jabber
+546-547			DHCPv6
+5631-5632		PCAnywhere
+5900+			VNC Server
+6000-6001		X11
+6346-6347		Gnutella
+6665-6669		IRC
+6679/6697		IRC over SSL
+67-68			DHCP/BOOTP
+6881-6999		BitTorrent
+6891-6901		Windows Live
+7648-7649		CU-SeeME
+8086-8087		Kaspersky AV
+9101-9103		Bacula
+989-990			FTP over SSL
